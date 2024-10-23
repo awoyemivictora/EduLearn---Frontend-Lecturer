@@ -1,0 +1,96 @@
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/public/fonts/RobotoBold.ttf");
+    font-family: "Roboto";
+    font-weight: 700;
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/public/fonts/RobotoRomanMedium.ttf");
+    font-family: "Roboto";
+    font-weight: 500;
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/public/fonts/RobotoRomanRegular.ttf");
+    font-family: "Roboto";
+    font-weight: 400;
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/public/fonts/InterMedium.ttf");
+    font-family: "Inter";
+    font-weight: 500;
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/public/fonts/RobotoRomanBold.ttf");
+    font-family: "Roboto";
+    font-weight: 700;
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/public/fonts/LexendDecaRegular.ttf");
+    font-family: "Lexend Deca";
+    font-weight: 400;
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/public/fonts/JostRomanRegular.ttf");
+    font-family: "Jost";
+    font-weight: 400;
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/public/fonts/JostRomanMedium.ttf");
+    font-family: "Jost";
+    font-weight: 500;
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/public/fonts/JostRomanBold.ttf");
+    font-family: "Jost";
+    font-weight: 700;
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/public/fonts/NunitoSemiBold.ttf");
+    font-family: "Nunito";
+    font-weight: 600;
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/public/fonts/NunitoRegular.ttf");
+    font-family: "Nunito";
+    font-weight: 400;
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/public/fonts/OutfitRegular.ttf");
+    font-family: "Outfit";
+    font-weight: 400;
+  }
+  
