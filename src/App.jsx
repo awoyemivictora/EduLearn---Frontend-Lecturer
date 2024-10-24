@@ -15,6 +15,7 @@ import Dashboard from "./pages/Dashboard"
 import LiveEvents from "./pages/LiveEvents"
 import Resources from "./pages/Resources"
 import ExamSubmission from "./pages/ExamSubmission"
+import Attendance from "./pages/Attendance"
 
 
 function App() {
@@ -39,6 +40,7 @@ function App() {
           <Route path="/live-events" element={<LiveEvents />} />
           <Route path="/resources" element={<Resources />} />
           <Route path="/exam-submission" element={<ExamSubmission />} />
+          <Route path="/attendance" element={<Attendance />} />
         </Routes>
       </div>
     </Router>

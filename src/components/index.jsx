@@ -31,6 +31,8 @@ import ClassSchedule from "./ClassSchedule";
 import UserDashboard from "./UserDashboard";        
 import InfoPanel from "./InfoPanel";        
 import AvatarImages from "./AvatarImages";        
+import AttendanceHeader from "./AttendanceHeader";        
+import ReactTableAttendance from "./ReactTableAttendance";        
 
 export {
   Img,
@@ -66,4 +68,6 @@ export {
   UserDashboard,
   InfoPanel,
   AvatarImages,
+  AttendanceHeader,
+  ReactTableAttendance,
 };
