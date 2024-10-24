@@ -1,1 +1,1 @@
-# EduLearn Application
+# EduLearn Lecturer Application

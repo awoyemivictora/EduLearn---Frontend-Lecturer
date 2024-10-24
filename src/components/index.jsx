@@ -27,6 +27,10 @@ import SecondaryInfoDetails from "./SecondaryInfoDetails";
 import MedicalInfoDetails from "./MedicalInfoDetails";        
 import PictureUpload from "./PictureUpload";        
 import SuccessProfile from "./SuccessProfile";        
+import ClassSchedule from "./ClassSchedule";        
+import UserDashboard from "./UserDashboard";        
+import InfoPanel from "./InfoPanel";        
+import AvatarImages from "./AvatarImages";        
 
 export {
   Img,
@@ -58,4 +62,8 @@ export {
   MedicalInfoDetails,
   PictureUpload,
   SuccessProfile,
+  ClassSchedule,
+  UserDashboard,
+  InfoPanel,
+  AvatarImages,
 };
